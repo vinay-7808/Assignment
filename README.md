@@ -8,4 +8,4 @@ After assessing the accuracy of different machine learning models, I identified 
 (2) Deployment:
 
 For deployment, I utilized FastAPI, implementing two key files: app.py and logistic_regression_model.pkl.
-The app.py file serves as the local API, facilitating the interaction between the user and the machine learning model. Users can run app.py, input data, and access predictions by visiting localhost:8000/host.
+The app.py file serves as the local API, facilitating the interaction between the user and the machine learning model. Users can run app.py, input data, and access predictions by visiting localhost:8000/host/docs.
