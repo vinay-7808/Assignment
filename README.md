@@ -1,4 +1,4 @@
-1) Project.ipynb:
+(1) Project.ipynb:
 
 In this notebook, I explored various machine learning models such as Logistic Regression, KNN, and Random Forest Classifier.
 To determine the most accurate model, I employed a systematic approach. I started by importing the dataset and addressed missing data and outliers using the z-score method. Subsequently, I performed feature engineering, introducing two distinct features. Following this, I scaled the data, making it ready for model training.
